@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aidan Gorman
+- 👋 Hi, I’m Aidan Gorman (SalmonRolls).
 
 
 <!---
